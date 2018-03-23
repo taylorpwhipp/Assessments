@@ -28,7 +28,7 @@ Try your best to answer each question on your own before looking up the answer o
  //Googled Answer
  
  
-#### 5. There are three mistakes in this code that would cause it to break our application. Find the mistakes and fix them:
+#### 4. There are three mistakes in this code that would cause it to break our application. Find the mistakes and fix them:
 
     import React, { Component } from 'react';
 
@@ -62,7 +62,7 @@ Try your best to answer each question on your own before looking up the answer o
 
     export default Recipes;
 
-#### 6. Name three html form input types. (NOTE: text is the default type - so it doesn't count in this case)
+#### 5. Name three html form input types. (NOTE: text is the default type - so it doesn't count in this case)
  
  //Your Answer
  
@@ -70,7 +70,7 @@ Try your best to answer each question on your own before looking up the answer o
  //Googled Answer
  
  
- #### 7. What happens when we call setState()?
+ #### 6. What happens when we call setState()?
  
  //Your Answer
  
@@ -78,7 +78,7 @@ Try your best to answer each question on your own before looking up the answer o
  //Googled Answer
  
  
- #### 8. What is the difference between component state and props? Your answer should include a short explanation of both.
+ #### 7. What is the difference between component state and props? Your answer should include a short explanation of both.
  
  
  //Your Answer
@@ -87,10 +87,10 @@ Try your best to answer each question on your own before looking up the answer o
  //Googled Answer
  
    
-#### 9. Write a paragraph or so about your experience with building tic-tac-toe. Some topics to start with might be: things you learned about yourself, concepts from React that stood out to you, something about pair programming (if you paired), or the experience of building something in code from scratch.
+#### 8. Write a paragraph or so about your experience with building tic-tac-toe. Some topics to start with might be: things you learned about yourself, concepts from React that stood out to you, something about pair programming (if you paired), or the experience of building something in code from scratch.
 
 
-#### 10. Write the Rules of React we talked about in class and try to give one or two reasons for each rule about why it is important or good to follow the rule.
+#### 9. Write the Rules of React we talked about in class and try to give one or two reasons for each rule about why it is important or good to follow the rule.
 
-#### 11. Do at least 5 exercises on Free Code Camp, starting with this one: https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables
+#### 10. Do at least 5 exercises on Free Code Camp, starting with this one: https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables
 
