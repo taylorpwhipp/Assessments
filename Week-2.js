@@ -2,7 +2,26 @@
 
 // 2. Write about yourself using an object. Include at least three properties of you and store your object in a variable with your name.
 
-// 3. Create an array with at least 4 items inside it. Show how to access two values from the array in two different ways.
+// 3. Given the object below, fill in how to find specific information:
+
+var bicycle = {
+	type: "Roadbike",
+	gear: ["comfy seat", "cool handlebars", "vintage bell", "toe clips"],
+	wheels: {
+		count: 2,
+		specs: ["road tires", "AX-7563", "80-115 PSI"],
+		brand: "Trek"
+	}
+}
+
+// Log the type of bicycle:
+console.log()
+
+// Log just the bell from the list of gear
+console.log()
+
+// Log the correct PSI for the tires
+console.log()
 
 // 4. Have the function AlphabetSoup(str) take the "str" parameter being passed and return a string with the letters in alphabetical order (ie. hello becomes ehllo). Assume no numbers or punctuation symbols will not be included in the parameter. 
 
