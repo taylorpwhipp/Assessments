@@ -33,7 +33,7 @@ Was this extra practice helpful? Take note of any concepts you learned or felt y
 
 #### 6. List some differences between return and console.log in Javascript. When would you use one vs the other? 
 
-#### 7. Think back to the intro to Javascript presentation. We talked about Javascript being a "Dynamically Typed" language. What did this mean abou the way we write Javascript?
+#### 7. Think back to the intro to Javascript presentation. We talked about Javascript being a "Dynamically Typed" language. What did this mean about the way we write Javascript?
 
 // Your Answer
 
